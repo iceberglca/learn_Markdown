@@ -9,13 +9,13 @@
 
 Texte simple
 
-** CEci est un texte en gras **
+**CEci est un texte en gras**
 
-Nous avons ici __ Un texte  __ qui est à la fois en gras et simple
+Nous avons ici __Un texte__ qui est à la fois en gras et simple
 
 *Texte italique*
 J'adore *git et github*
-~~ Oups c'est une erreur ~~
+~~Oups c'est une erreur~~
 <sub>Mon texte est plus petit</sub>
 <sup> Superscript</sup>
 
