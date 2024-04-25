@@ -39,3 +39,7 @@ git commit -m "Nom du commit"
 Pour aller sur mon site : [Chahine Kondoh](https://www.chahinekondoh.com).  
 lien vers un autre fichier [vers test.md](test.md).
 
+# Ajouter une image 
+
+![Chahine Kondoh](https://media.licdn.com/dms/image/C4D03AQG0Ov_QJThSgw/profile-displayphoto-shrink_800_800/0/1629500310246?e=1719446400&v=beta&t=37z6hW3_ImvzjuTSicqTcySUuAMLvuerINxLAMHac4s)
+
