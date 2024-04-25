@@ -24,4 +24,13 @@ J'adore *git et github*
 
 Nous avons imbriqué `une citation`
 
+# Code dans Markdown
+
+Pour faire un commit
+
+```
+git status
+git add -A 
+git commit -m "Nom du commit"
+```
 
