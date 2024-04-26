@@ -71,7 +71,7 @@ C'est super fun Git & Github :heartbeat:
 		
 ## To DO
 
-*[] Roquefort  
+*[ ] Roquefort  
 *[x] Cantal  
-*[] Foret noir  
+*[ ] Foret noir  
 
