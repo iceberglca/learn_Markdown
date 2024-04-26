@@ -47,6 +47,20 @@ lien vers un autre fichier [vers test.md](test.md).
 
 Pour trouver la liste des emoji disponible avec Github : [Liste des emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
 
-C'est super fun Git & Github :heartbeat:    
+C'est super fun Git & Github :heartbeat:  
+
+# liste
+
+## Liste simple non ordonnée
+
+* Element A  
+* Element B  
+* Element C 
+
+## Liste ordonnées
+
+1. Carottes  
+2. Choux  
+3. Manioc    
 
 
