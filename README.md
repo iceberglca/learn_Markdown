@@ -57,10 +57,15 @@ C'est super fun Git & Github :heartbeat:
 * Element B  
 * Element C 
 
-## Liste ordonnées
+## Listes ordonnées
 
 1. Carottes  
 2. Choux  
-3. Manioc    
+3. Manioc  
 
+## Listes imbriquées  
+* element 1
+	* Element 1.A  
+		* Element 1.A.1
+		* Element 1.A.2
 
