@@ -43,3 +43,10 @@ lien vers un autre fichier [vers test.md](test.md).
 
 ![Chahine Kondoh](https://media.licdn.com/dms/image/C4D03AQG0Ov_QJThSgw/profile-displayphoto-shrink_800_800/0/1629500310246?e=1719446400&v=beta&t=37z6hW3_ImvzjuTSicqTcySUuAMLvuerINxLAMHac4s)
 
+# Ajouter des Emoji
+
+Pour trouver la liste des emoji disponible avec Github : [Liste des emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+
+C'est super fun Git & Github :heartbeat:    
+
+
